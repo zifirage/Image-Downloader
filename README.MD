@@ -1,4 +1,4 @@
-# This project is a simple download from the link received in: Developer Tools.
+# This project is a simple way to download an image from a link received in the developer tool
 
 maybe it will be useful
 
